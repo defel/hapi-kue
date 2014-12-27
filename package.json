@@ -1,0 +1,28 @@
+{
+  "name": "hapi-kue",
+  "version": "0.1.0",
+  "description": "hapi plugin to integrate kue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defel/hapi-kue.git"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "kue",
+    "queue"
+  ],
+  "author": "defel <dem_ist@nurfuerspam.de>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/defel/hapi-kue/issues"
+  },
+  "homepage": "https://github.com/defel/hapi-kue",
+  "dependencies": {
+    "kue": "^0.8.11"
+  }
+}
