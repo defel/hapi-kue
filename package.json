@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/defel/hapi-kue",
   "dependencies": {
+    "boom": "^2.6.1",
+    "chalk": "^0.5.1",
     "kue": "^0.8.11"
   }
 }
